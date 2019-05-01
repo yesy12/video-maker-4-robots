@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yesy12/video-maker-4-robots/issues"
   },
-  "homepage": "https://github.com/yesy12/video-maker-4-robots#readme"
+  "homepage": "https://github.com/yesy12/video-maker-4-robots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
