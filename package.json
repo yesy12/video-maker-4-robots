@@ -1,0 +1,22 @@
+{
+  "name": "video-maker-4-robots",
+  "version": "1.0.0",
+  "description": "Vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesy12/video-maker-4-robots.git"
+  },
+  "author": "Alison Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesy12/video-maker-4-robots/issues"
+  },
+  "homepage": "https://github.com/yesy12/video-maker-4-robots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
